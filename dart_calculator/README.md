@@ -16,9 +16,3 @@ A simple command line calculator built while practicing Dart basics.
 - User input with `stdin`
 - Loops and conditionals
 - Basic error handling
-
-## How To Run
-
-```bash
-dart run bin/calculator.dart
-```
